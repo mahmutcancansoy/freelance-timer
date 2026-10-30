@@ -1,0 +1,16 @@
+# Swift Package Manager and Xcode build products
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+DerivedData/
+
+# Generated app bundles and release artifacts
+build/
+*.app/
+*.dmg
+
+# macOS metadata
+.DS_Store
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
